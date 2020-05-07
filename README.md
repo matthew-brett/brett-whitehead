@@ -202,7 +202,7 @@ Deaths Dec 1949   (>99%)
 Whitehead	 Helena E	 77	 Woolwich	 5d	878
 ```
 
-Marriage record
+Marriage record is very likely to be:
 
 ```
 Marriages Jun 1901   (>99%)
@@ -214,15 +214,36 @@ family](https://billiongraves.com/grave/Helena-Emmeline-Langford-Whitehead/22444
 has the following information:
 
 > Helena Emmeline Whitehead (Langford)
+>
 > Born 10 May 1872, died: 18 Oct 1949
 
 That tallies with this birth certificate:
 
 > LANGFORD, HELENA  EMMELINE
+>
 > BRAGINTON
+>
 > GRO Reference: 1872  J Quarter in PLYMOUTH  Volume 05B  Page 251
 
 The same grave (and URL) gives details for Gilbert Hinds Whitehead
 
 > Third son of Sir James Whitehead. Bart.
+>
 > Born 26th May 1886, died 18th December 1908
+
+In the 1881 census, Helena Emmilina Langford was at 5 North Hills Terrace, in
+the following household:
+
+| Name  | Age | Relation | Marriage | Profession |
+|-------| ----|----------|----------|------------|
+| Clara Louisa Langford  | 42 | Head | Widow | Lady |
+| Ellen Macornick Johns  | 22 | Daughter | Single | Lady |
+| Richard Braginton Johns  | 18 | Son | Single | Solicitor's articled clerk |
+| Helena Emmilina Langford  | 8 | Daughter | Single | Scholar |
+| George Stawell Tuckey  | 27 | Visitor | Single | Solicitor |
+| Fanny Gent  | 17 | Servant | Single | Cook Domestic |
+| Elizabeth Dunn  | 16 | Servant | Single | Housemaid |
+
+I can't find Helena Emmilina Langford in the 1891 census.
+
+It looks like she's in Truro, as Helena E Langford, for the 1901 survey.
