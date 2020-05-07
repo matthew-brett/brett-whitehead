@@ -54,7 +54,7 @@ Mention in Dispatches [announced 17 June
   entry](https://www.wikitree.com/wiki/Brett-967). Father of Charles Curtis
   Brett (b 1789).
 * Charles Curtis Brett (b 1789). [CCB wikitree
-  entry](https://www.wikitree.com/wiki/Brett-986).
+  entry](https://www.wikitree.com/wiki/Brett-986).  Father of John Brett (b 1831).
 
 ### John Brett (b 1831)
 
