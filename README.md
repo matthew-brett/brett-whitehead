@@ -15,6 +15,8 @@ This is Martin's sketch of the Brett side of the family tree:
 
 ![](images/martin_b_sketch.jpg)
 
+### John Brett (b 1905)
+
 John [died in World War
 2](https://www.naval-history.net/xDKCas1941-05MAY2.htm), when his ship [HMS
 Gloucester](https://www.naval-history.net/xGM-Chrono-06CL-HMS_Gloucester.htm)
@@ -40,6 +42,21 @@ John was awarded the Distinguished Service Cross, [announced 11th September
 1940](https://www.thegazette.co.uk/London/issue/34943/supplement/5469), and
 Mention in Dispatches [announced 17 June
 1941](https://www.thegazette.co.uk/London/issue/35191/supplement/3436)
+
+### Early Brett family
+
+* Curtis Brett (b ~1720), printer.  [CB wikitree
+  entry](https://www.wikitree.com/wiki/Brett-973).  [CB
+  will](https://aparcelofribbons.co.uk/wp-content/uploads/2016/03/68-Brett-Will-of-Curtis-Brett-1784.pdf).
+  Father of Charles Richard Brett (born and died 1761) and Curtis Brett (b
+  1765)
+* Curtis Brett (b 1765).  [CB Jr wikitree
+  entry](https://www.wikitree.com/wiki/Brett-967). Father of Charles Curtis
+  Brett (b 1789).
+* Charles Curtis Brett (b 1789). [CCB wikitree
+  entry](https://www.wikitree.com/wiki/Brett-986).
+
+### John Brett (b 1831)
 
 The Dictionary of National Biography (1912) on [John Brett (the
 painter)](https://en.wikisource.org/wiki/Brett,_John_(DNB12)). "BRETT, JOHN
@@ -68,7 +85,7 @@ Surrey, on 26 March 1830, the eldest of the five children of Captain Charles
 Curtis Brett (1789–1865), veterinary surgeon in the 12th lancers, and his wife,
 Ann, née Pilbean (b. 1808/9), of Tonbridge, Kent."
 
-### Children of John Brett (b1831)
+### Children of John Brett (b 1831)
 
 The record for John's household in the 1881 census records these household
 members at No 6 Keswick Road, London:
