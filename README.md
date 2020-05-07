@@ -1,12 +1,7 @@
 # Brett-Whitehead family history
 
 Notes on the family history, that starts from the marriage of John Brett and
-(Margaret) Joy Whitehead, in May 1928.
-
-John was the son of Michael Brett, who was the son of [John
-Brett](https://en.wikipedia.org/wiki/John_Brett_(artist)).  Joy Whitehead was
-from the family of [Sir James
-Whitehead](https://en.wikipedia.org/wiki/Sir_James_Whitehead,_1st_Baronet).
+(Margaret) Joy Whitehead, in May 1928 (see below).
 
 John and Joy had three children:
 
@@ -27,6 +22,9 @@ sank, on May 22nd 1941.
 
 From: <http://www.thepeerage.com/p31682.htm#i316813> - John Brett was born on the 27th March 1905, married Margaret Joy Whitehead on 5th May 1928, and was killed in action off Crete in H.M.S Gloucester, on 22nd May 1941.
 
+John was the son of Michael Brett, who was the eldest son of [John Brett, the
+painter](https://en.wikipedia.org/wiki/John_Brett_(artist)).
+
 He was commissioned into the Royal Navy on 15 September 1918, and gained these ranks:
 
 * Midshipman: 15 January 1923
@@ -43,6 +41,8 @@ John was awarded the Distinguished Service Cross, [announced 11th September
 Mention in Dispatches [announced 17 June
 1941](https://www.thegazette.co.uk/London/issue/35191/supplement/3436)
 
+## Whiteheads
+
 ### Margaret Joy Whitehead:
 
 <http://www.thepeerage.com/p31682.htm>
@@ -53,7 +53,7 @@ Giles on 24th July 1965.
 
 Source is Burke's Peerage.
 
-Marriage: <https://www.freebmd.org.uk> (also see below).
+Marriage: <https://www.freebmd.org.uk>:
 
 ```
 Type:	 	Marriages	 	Surname:	 	Brett	 	First name(s):	 	John
