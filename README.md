@@ -190,16 +190,39 @@ GILES	 MARGARET JOY	 12JE1905	 SURREY S W	 17	1323
 ```
 
 According to <http://www.thepeerage.com/p31681.htm#i316808>, Gilbert Hinds
-Whitehead was the fifth son of [Sir James Whitehead, 1st
+Whitehead was the fifth child (and third son) of [Sir James Whitehead, 1st
 Baronet](https://en.wikipedia.org/wiki/Sir_James_Whitehead,_1st_Baronet) and
 Mercy Matilda Hinds.  Further links there say Helena Emmeline Langford was the
 daughter of Henry A. Langford, but no mention of her mother. This site claims
-she was born on 10 April 1901 and died in 1949.
+she married Gilbert Hinds on 10 April 1901, and died in 1949. Her age on her
+death certificate (from 1949) suggests she was born around 1872:
 
 ```
 Deaths Dec 1949   (>99%)
-Whitehead	 Helena E	 77	 Woolwich	 5d	878	  Scan available - click to view
+Whitehead	 Helena E	 77	 Woolwich	 5d	878
 ```
 
-I can't find a birth certificate for Helena or Emmeline Langford, between 1890
-and 1910.
+Marriage record
+
+```
+Marriages Jun 1901   (>99%)
+Whitehead	 Gilbert Hinds	 	 Truro	 5c	237
+```
+
+This site about [a gravesite for the Whitehead
+family](https://billiongraves.com/grave/Helena-Emmeline-Langford-Whitehead/22444584)
+has the following information:
+
+> Helena Emmeline Whitehead (Langford)
+> Born 10 May 1872, died: 18 Oct 1949
+
+That tallies with this birth certificate:
+
+> LANGFORD, HELENA  EMMELINE
+> BRAGINTON
+> GRO Reference: 1872  J Quarter in PLYMOUTH  Volume 05B  Page 251
+
+The same grave (and URL) gives details for Gilbert Hinds Whitehead
+
+> Third son of Sir James Whitehead. Bart.
+> Born 26th May 1886, died 18th December 1908
