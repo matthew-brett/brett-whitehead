@@ -128,14 +128,14 @@ living in Hangerlea, Stansted Road, Bishop's Stortford, with this household:
 
 | Name  | Age |
 |-------| ----|
-| Michael Brett 39 |
-| Nellie Mary Brett 29 |
-| Joan Brett 8 |
-| John Brett 6 |
-| Peter Brett 1 |
-| Tirzah Faulder 25 |
-| Caroline Alice Hudgell 24 |
-| Annie Amelia Smith 27 |
+| Michael Brett | 39 |
+| Nellie Mary Brett | 29 |
+| Joan Brett | 8 |
+| John Brett | 6 |
+| Peter Brett | 1 |
+| Tirzah Faulder | 25 |
+| Caroline Alice Hudgell | 24 |
+| Annie Amelia Smith | 27 |
 
 Tentative: Joan Brett [married Alistair William
 Hay](https://www.ancestry.co.uk/genealogy/records/joan-brett-24-c2tls)
