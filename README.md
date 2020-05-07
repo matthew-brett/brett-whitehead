@@ -138,8 +138,8 @@ living in Hangerlea, Stansted Road, Bishop's Stortford, with this household:
 | Annie Amelia Smith | 27 |
 
 Tentative: Joan Brett [married Alistair William
-Hay](https://www.ancestry.co.uk/genealogy/records/joan-brett-24-c2tls)
-- presumably subject of [this
+Hay](https://www.ancestry.co.uk/genealogy/records/joan-brett-24-c2tls) ---
+presumably subject of [this
 article](https://manifestmagazine.files.wordpress.com/2008/08/manifestn2.pdf).
 
 ## Whiteheads
