@@ -240,11 +240,17 @@ has the following information:
 
 ![](images/whitehead_gh_grave.jpg)
 
-> Helena Emmeline Whitehead (Langford)
+> Gilbert Hinds Whitehead
 >
-> Born 10 May 1872, died: 18 Oct 1949
+> Third son of Sir James Whitehead. Bart.
+>
+> Born 26th May 1886, died 18th December 1908
+>
+> Helena Emmeline, wife of the above
+>
+> Born 10 May 1872, died 18 Oct 1949
 
-That tallies with this birth certificate:
+Helena's date of birth tallies with this birth certificate:
 
 > LANGFORD, HELENA  EMMELINE
 >
@@ -252,11 +258,6 @@ That tallies with this birth certificate:
 >
 > GRO Reference: 1872  J Quarter in PLYMOUTH  Volume 05B  Page 251
 
-The same grave (and URL) gives details for Gilbert Hinds Whitehead
-
-> Third son of Sir James Whitehead. Bart.
->
-> Born 26th May 1886, died 18th December 1908
 
 In the 1881 census, Helena Emmilina Langford was at 5 North Hills Terrace, in
 the following household:
