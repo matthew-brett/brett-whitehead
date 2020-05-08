@@ -56,6 +56,25 @@ Mention in Dispatches [announced 17 June
 * Charles Curtis Brett (b 1789). [CCB wikitree
   entry](https://www.wikitree.com/wiki/Brett-986).  Father of John Brett (b 1831).
 
+Charles Curtis Brett's household in the 1851 census.
+
+| Name  | Age | Relation | Profession |
+|-------| ----|----------|------------|
+| Charles C Brett  | 67 | Head | Vetinary surgeon ?army |
+| Ann Brett  | 42 | Wife | |
+| Rosa Brett  | 21 | Daughter | |
+| John Brett  | 19 | Son | ? landscape ? |
+| Theodore Brett  | 17 | Son | Scholar |
+| Arthur Brett  | 15 | Son | Scholar at home |
+| Edwin Brett  | 10 | Son | Scholar at home |
+| Elizabeth Walker  | 47 | Servant | ?house? |
+
+See [CCB 1851 census original image](images/brett_cc_1851_census.jpg)
+
+1851 England census; Class: HO107; Piece: 1617; Folio: 593; Page: 37; GSU roll:
+193518
+
+
 ### John Brett (b 1831)
 
 The Dictionary of National Biography (1912) on [John Brett (the
@@ -243,6 +262,8 @@ the following household:
 | George Stawell Tuckey  | 27 | Visitor | Single | Solicitor |
 | Fanny Gent  | 17 | Servant | Single | Cook Domestic |
 | Elizabeth Dunn  | 16 | Servant | Single | Housemaid |
+
+See the [CLL 1881 census original image](images/census_1881_he_langford.jpeg)
 
 I can't find Helena Emmilina / Emmiline Langford in the 1891 census.
 
