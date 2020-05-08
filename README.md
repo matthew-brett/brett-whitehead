@@ -144,6 +144,12 @@ The 1891 census has his address as Daisy Field, and members:
 
 The National Archives of the UK (TNA); Kew, Surrey, England; Census Returns of England and Wales, 1891; Class: RG12; Piece: 445; Folio: 94; Page: 4; GSU roll: 6095555
 
+Alfred J Brett appears to be at Winchester, in 1891:
+
+The National Archives of the UK (TNA); Kew, Surrey, England; Census Returns of
+England and Wales, 1891; Class: RG12; Piece: 937; Folio: 131; Page: 3; GSU
+roll: 6096047
+
 * Michael - [various official
   data](https://en.wikisource.org/wiki/Author_talk:Michael_Brett). There is
   a [page on Michael at
@@ -260,15 +266,28 @@ the following household:
 | Richard Braginton Johns  | 18 | Son | Single | Solicitor's articled clerk |
 | Helena Emmilina Langford  | 8 | Daughter | Single | Scholar |
 | George Stawell Tuckey  | 27 | Visitor | Single | Solicitor |
-| Fanny Gent  | 17 | Servant | Single | Cook Domestic |
+| Fanny Gent  | 47 | Servant | Single | Cook Domestic |
 | Elizabeth Dunn  | 16 | Servant | Single | Housemaid |
 
-See the [CLL 1881 census original image](images/census_1881_he_langford.jpeg)
+See the [CLL 1881 census original image](images/langford_he_1881_census.jpg)
 
-I can't find Helena Emmilina / Emmiline Langford in the 1891 census.
+In 1891 Helena is living at 8 Roman Road, Chiswick, with her half-brother, and
+one of the same servants, Fanny Gent:
 
-It looks like she's in Truro, as Helena E Langford, for the 1901 survey, which
-is also where she married Gilbert Hinds Whitehead.
+| Name  | Age | Relation | Marriage | Profession |
+|-------| ----|----------|----------|------------|
+| Edmund A Johns | 26 | Head | Single | Living on own means |
+| Helena E Langford  | 18 | Half-sister | Single | Scholar |
+| Fanny Gent  | 62 | Servant | Single | Cook Domestic |
+
+The National Archives of the UK (TNA); Kew, Surrey, England; Census Returns of
+England and Wales, 1891; Class: RG12; Piece: 1034; Folio: 83; Page: 31; GSU
+roll: 6096144
+
+See the [HEL 1881 census original image](images/langford_he_1891_census.jpg)
+
+It looks like Helena is in Truro, as Helena E Langford, for the 1901 survey,
+which is also where she married Gilbert Hinds Whitehead.
 
 Search for [Richard Braginton
 Johns](https://www.ancestry.com.au/genealogy/records/richard-braginton-johns-24-qy2hdl)
