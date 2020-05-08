@@ -238,6 +238,8 @@ This site about [a gravesite for the Whitehead
 family](https://billiongraves.com/grave/Helena-Emmeline-Langford-Whitehead/22444584)
 has the following information:
 
+![](images/whitehead_gh_grave.jpg)
+
 > Helena Emmeline Whitehead (Langford)
 >
 > Born 10 May 1872, died: 18 Oct 1949
@@ -269,7 +271,7 @@ the following household:
 | Fanny Gent  | 47 | Servant | Single | Cook Domestic |
 | Elizabeth Dunn  | 16 | Servant | Single | Housemaid |
 
-See the [CLL 1881 census original image](images/langford_he_1881_census.jpg)
+See the [HEL 1881 census original image](images/langford_he_1881_census.jpg)
 
 In 1891 Helena is living at 8 Roman Road, Chiswick, with her half-brother, and
 one of the same servants, Fanny Gent:
@@ -284,7 +286,7 @@ The National Archives of the UK (TNA); Kew, Surrey, England; Census Returns of
 England and Wales, 1891; Class: RG12; Piece: 1034; Folio: 83; Page: 31; GSU
 roll: 6096144
 
-See the [HEL 1881 census original image](images/langford_he_1891_census.jpg)
+See the [HEL 1891 census original image](images/langford_he_1891_census.jpg)
 
 It looks like Helena is in Truro, as Helena E Langford, for the 1901 survey,
 which is also where she married Gilbert Hinds Whitehead.
