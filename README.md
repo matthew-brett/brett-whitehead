@@ -244,6 +244,49 @@ the following household:
 | Fanny Gent  | 17 | Servant | Single | Cook Domestic |
 | Elizabeth Dunn  | 16 | Servant | Single | Housemaid |
 
-I can't find Helena Emmilina Langford in the 1891 census.
+I can't find Helena Emmilina / Emmiline Langford in the 1891 census.
 
-It looks like she's in Truro, as Helena E Langford, for the 1901 survey.
+It looks like she's in Truro, as Helena E Langford, for the 1901 survey, which
+is also where she married Gilbert Hinds Whitehead.
+
+Search for [Richard Braginton
+Johns](https://www.ancestry.com.au/genealogy/records/richard-braginton-johns-24-qy2hdl)
+suggests his father was Edmund Allen Johns, who died in 1864, and Clara Louise
+Braginton (b 1837).
+
+Edmund Allen Johns married Clara Braginton in 1857:
+
+```
+Marriages Mar 1857   (>99%)
+Johns	 Edmund Allen	 	 Torrington	 5b	793
+```
+
+He died in Truro in 1864:
+
+```
+Deaths Dec 1864   (>99%)
+Johns	 Edmund Allen	 	 Truro	 5c	113
+```
+
+Henry A Langford married Clara Johns in 1866, in Plymouth:
+
+```
+Marriages Jun 1866   (>99%)
+LANGFORD	 Henry A	 	 Plymouth	 5b	437
+```
+
+Apart from Helena Emmeline, there was only one other Langford born in Plymouth
+between 1864 and 1890:
+
+```
+Births Jun 1868   (>99%)
+LANGFORD	 Albert Leonard	  	 Plymouth	 5b	265
+```
+
+Albert Leonard Langford died at age 11, also in Plymouth, which would explain
+why he is not in Clara Louisa's Household in 1881.
+
+```
+Deaths Dec 1879   (>99%)
+Langford	 Albert Leonard	 11	 Plymouth	 5b	193
+```
