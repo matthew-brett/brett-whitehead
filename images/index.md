@@ -2,7 +2,7 @@
 title: Directory listing of images
 ---
 
-*   [Curtis Charles Brett entry in 1851 census](brett_cc_1851_census.jpg)
+*   [Charles Curtis Brett entry in 1851 census](brett_cc_1851_census.jpg)
 *   [Helena E Langford entry in 1881 census](langford_he_1881_census.jpg)
 *   [Helena E Langford entry in 1891 census](langford_he_1891_census.jpg)
 *   [Martin Brett's sketch of family tree](martin_b_sketch.jpg)
