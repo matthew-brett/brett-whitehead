@@ -1,12 +1,15 @@
-### John Brett (b 1905)
+---
+# YAML metadata
+title: John Brett (b 1905)
+author: Matthew Brett
+---
 
 John [died in World War
-2](https://www.naval-history.net/xDKCas1941-05MAY2.htm), when his ship
-[HMS
+2](https://www.naval-history.net/xDKCas1941-05MAY2.htm), when his ship [HMS
 Gloucester](https://www.naval-history.net/xGM-Chrono-06CL-HMS_Gloucester.htm)
 sank, on May 22nd 1941.
 
-John married Margaret Joy Whitehead on 5 May 1928 - see section on Margaret Joy
+He married Margaret Joy Whitehead on 5 May 1928 - see section on Margaret Joy
 Whitehead.
 
 John was the son of Michael Brett, who was the eldest son of [John
