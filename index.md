@@ -15,7 +15,7 @@ John and Joy had three children:
 * Jennifer Brooke-Smith
 * Martin Brett b 1939-01-06.
 
-For John Brett see [John Brett](john_brett_1905.html)
+For John Brett see [John Brett](john_brett_1905)
 
 ## Bretts
 
