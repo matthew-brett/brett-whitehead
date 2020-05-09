@@ -1,5 +1,6 @@
 PDSITE=./.pdsite/bin/pdsite
 BUILD_DIR=.html
+SCRIPTS=.scripts
 
 build:
 	rm -rf $(BUILD_DIR)
