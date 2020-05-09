@@ -4,8 +4,6 @@ title: Brett-Whitehead family history
 author: Matthew Brett
 ---
 
-# Brett-Whitehead family history
-
 Notes on the family history, that starts from the marriage of John Brett and
 (Margaret) Joy Whitehead, in May 1928 (see below).
 
