@@ -5,22 +5,21 @@ author: Matthew Brett
 ---
 
 Notes on the family history, that starts from the marriage of John Brett and
-(Margaret) Joy Whitehead, in May 1928 (see below).
+(Margaret) Joy Whitehead, in May 1928.
 
 John and Joy had three children:
 
 * Sue Oliver
-* Jennifer Brooke-Smith
+* Jenifer Brooke-Smith
 * Martin Brett b 1939-01-06.
 
-For John Brett see [John Brett](john_brett_1905)
+For John Brett see [John Brett](john-brett-1905)
 
 ## Bretts
 
 This is Martin's sketch of the Brett side of the family tree:
 
 ![](images/martin_b_sketch.jpg)
-
 
 ### Early Brett family
 
@@ -53,7 +52,7 @@ See [CCB 1851 census original image](images/brett_cc_1851_census.jpg)
 1851 England census; Class: HO107; Piece: 1617; Folio: 593; Page: 37; GSU roll:
 193518
 
-For John Brett (b 1831) - see [John Brett (painter)](john_brett_1831).
+For John Brett (b 1831) - see [John Brett (painter)](john-brett-1831).
 
 ### Children of John Brett (b 1831)
 
