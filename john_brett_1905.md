@@ -1,0 +1,34 @@
+### John Brett (b 1905)
+
+John [died in World War
+2](https://www.naval-history.net/xDKCas1941-05MAY2.htm), when his ship
+[HMS
+Gloucester](https://www.naval-history.net/xGM-Chrono-06CL-HMS_Gloucester.htm)
+sank, on May 22nd 1941.
+
+From: <http://www.thepeerage.com/p31682.htm#i316813> - John Brett was
+born on the 27th March 1905, married Margaret Joy Whitehead on 5th May
+1928, and was killed in action off Crete in H.M.S Gloucester, on 22nd
+May 1941.
+
+John was the son of Michael Brett, who was the eldest son of [John
+Brett, the painter](https://en.wikipedia.org/wiki/John_Brett_(artist)).
+
+He was commissioned into the Royal Navy on 15 September 1918, and gained
+these ranks:
+
+-   Midshipman: 15 January 1923
+-   Sub-Lieutenant: 15 November 1925
+-   Lieutenant: 15 November 1927
+-   Lieutenant-Commander: 15 November 1935.
+
+Source is Burke's Peerage, and
+<http://www.unithistories.com/units_index/default.asp?file=../officers/personsx.html>,
+but I can't find John Brett at this link, now or via
+<https://archive.org>.
+
+John was awarded the Distinguished Service Cross, [announced 11th
+September
+1940](https://www.thegazette.co.uk/London/issue/34943/supplement/5469),
+and Mention in Dispatches [announced 17 June
+1941](https://www.thegazette.co.uk/London/issue/35191/supplement/3436)

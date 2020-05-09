@@ -1,0 +1,12 @@
+# pdsite configuration
+
+theme: default
+inputextension: .md
+outputfolder: .html
+
+# Site-wide template variables
+
+sitename: "Brett-Whitehead family history"
+siteroot: https://matthew-brett.github.io/brett-whitehead
+pagetitle-suffix: ""
+footer: '<a class="navbar-link" href="https://github.com/matthew-brett/brett-whitehead">GitHub Repo</a> | <a class="navbar-link" href="https://github.com/matthew-brett/brett-whitehead/issues">Report an Issue</a>'

@@ -1,3 +1,6 @@
 [submodule "pdsite"]
-	path = pdsite
-	url = https://github.com/GordStephen/pdsite
+	path = .pdsite
+	url = https://github.com/matthew-brett/pdsite
+[submodule ".push-gh-pages"]
+	path = .push-gh-pages
+	url = https://gist.github.com/motemen/8595451
