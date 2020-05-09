@@ -168,9 +168,12 @@ article](https://manifestmagazine.files.wordpress.com/2008/08/manifestn2.pdf).
 
 ## Whiteheads
 
+See [extract from Burke's peerage, 1949](images/whitehead_mj_burkes_1949.pdf)
+for full summary of Whitehead family tree to 1949.
+
 ### Margaret Joy Whitehead:
 
-From [extract from Burke's peerage from 1949](images/whitehead_mj_burkes_1949.pdf):
+Quoting from the extract from Burke's peerage above:
 
 >  3. Gilbert Hinds, b. 26 May, 1866 ; to. 10 April, 1901, •Helena Emmeline,
 >     (New Raven, Eltham, Kent), only dau. of late Henry A. Langford, of
