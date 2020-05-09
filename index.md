@@ -170,13 +170,19 @@ article](https://manifestmagazine.files.wordpress.com/2008/08/manifestn2.pdf).
 
 ### Margaret Joy Whitehead:
 
-<http://www.thepeerage.com/p31682.htm>
+From [extract from Burke's peerage from 1949](images/whitehead_mj_burkes_1949.pdf):
 
-Margaret Joy Whitehead was the daughter of Gilbert Hinds Whitehead and Helena
-Emmeline Langford. She married John Brett on 5 May 1928, and Robert Clement
-Giles on 24th July 1965.
+>  3. Gilbert Hinds, b. 26 May, 1866 ; to. 10 April, 1901, •Helena Emmeline,
+>     (New Raven, Eltham, Kent), only dau. of late Henry A. Langford, of
+>     Plymouth, and d. 18 Dec. 1908, leaving issue,
+>     * Margaret Joy, m. 5 May, 1928, Lt.-Cmdr. John Brett, D.S.C., R.N., elder
+>       son of Michael Brett, of Bishop’s Stortford, and has issue. He was k.
+>       in action in H.M.S. Gloucester, off Crete, 22 May, 1941.
 
-Source is Burke's Peerage.
+1959 edition adds only that Helena Emmeline died in 1949, and address for
+Margaret Joy of "Heath Cottage, Puttenham, Guildford, Surrey".
+
+2003 edition (excerpted in [peerage.com summary](http://www.thepeerage.com/p31682.htm) adds that Margaret Joy married Robert Clement Giles on 24th July 1965.
 
 Marriage: <https://www.freebmd.org.uk>:
 
