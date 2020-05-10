@@ -1,0 +1,15 @@
+---
+# YAML metadata
+title: Sources
+---
+
+## Conversation between Matthew and Martin Brett, 10 May 2020
+
+Helena Emmeline preferred "Emmeline".
+
+Emmeline lived with "Aunt Alice" and an unfriendly vicar in [Zennor, in
+Cornwall](https://en.wikipedia.org/wiki/Zennor).  She (Granny Whitehead) would
+do an impression of the thick accent of the postman.
+
+A distant relative, surname Johns, gave a significant amount of money to
+Emmeline in his will, enough to buy a car.

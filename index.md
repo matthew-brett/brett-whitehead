@@ -248,6 +248,14 @@ roll: 6096144
 
 See the [HEL 1891 census original image](images/langford_he_1891_census.jpg)
 
+Probate for:
+
+> JOHNS Edmond Allen of Penhallam Great Torrington Devonshire died 26 November
+> 1929 Administration London 31 January to Richard Braginton Johns solicitor.
+> Effects £1747 7s 9d.
+
+England & Wales, National Probate Calendar (Index of Wills and Administrations), 1858-1966 - Ancestry.com - 1,1904::0 - 1,1904::5409983
+
 It looks like Helena is in Truro, as Helena E Langford, for the 1901 survey,
 which is also where she married Gilbert Hinds Whitehead.
 
@@ -269,6 +277,14 @@ He died in Truro in 1864:
 Deaths Dec 1864   (>99%)
 Johns	 Edmund Allen	 	 Truro	 5c	113
 ```
+
+See also [this grave inscription](http://sites.rootsweb.com/~enggerop/gerrans_mis_f_m.htm):
+
+> Sacred to the memory of Philippa Maccarmick Johns Who departed this life The
+> 8? day of October 1857 Aged 14 years and 8 months She lives whom we call dead
+> Also of her youngest brother Edmund Allen Johns Who was suddenly called from
+> this life November 2nd 1864 aged 34 years We trust in the living God who is
+> the Saviour of all men specially of those That believe
 
 Henry A Langford married Clara Johns in 1866, in Plymouth:
 
@@ -292,3 +308,22 @@ why he is not in Clara Louisa's Household in 1881.
 Deaths Dec 1879   (>99%)
 Langford	 Albert Leonard	 11	 Plymouth	 5b	193
 ```
+
+There is a [grave for "Henry A
+Langford"](http://www.gravestonephotos.com/public/gravedetails.php?grave=59397)
+in St Mary's Church, Callington, Cornwall, with inscription:
+
+> Henry A Langford who departed this life June 24th 1879, aged 41 years. "His
+> end was peace".
+
+See [Henry A Langford probate listing](images/langford_ha_probate_1881.jpg):
+
+> LANGFORD, Henry Albert.  Personal estate £28 13s.  1881, 10 December.
+> Administration of the Personal Estate of Henry Albert Langford late of
+> Callington in the county of Cornwall Accountant who died 24 June 1879 in
+> Callington was granted at Bodmin to Clara Louisa Langford of 5 North-Hill-
+> terrace Plymouth in the County of Devon Widow of the Relict.
+
+England & Wales, National Probate Calendar (Index of Wills and
+Administrations), 1858-1966 - Ancestry.com - 1,1904::0 - 1,1904::5114587
+
