@@ -327,3 +327,21 @@ See [Henry A Langford probate listing](images/langford_ha_probate_1881.jpg):
 England & Wales, National Probate Calendar (Index of Wills and
 Administrations), 1858-1966 - Ancestry.com - 1,1904::0 - 1,1904::5114587
 
+Clara Louisa's birth record may well be:
+
+```
+Births Dec 1837   (>99%)
+BRAGINTON	 Louisa	 	 Launceston	 9	125
+```
+
+Alice Braginton, Clara Louisa's sister, married Samuel Henry Farwell Roe:
+
+```
+Search for	 	
+Type:	 	Marriages	 	Surname:	 	Roe	 	First name(s):	 	Samuel
+Start date:	 	Sep 1882	 	End date:	 	Dec 1900	 	Spouse/Mother's surname:	 	Braginton
+
+Surname  	First name(s)  	  	District  	Vol  	Page 
+Marriages Jun 1890   (>99%)
+Roe	 Samuel Henry F	 	 Portsea	 2b	942
+```
