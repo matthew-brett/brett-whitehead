@@ -1,10 +1,10 @@
-PDSITE=./.pdsite/bin/pdsite
-BUILD_DIR=.html
-SCRIPTS=.scripts
+BUILD_DIR=public
 
-build:
-	rm -rf $(BUILD_DIR)
-	$(PDSITE) build
+build-gh-pages: clean
+	hugo -D --baseURL="https://matthew-brett.github.io/miles-bell"
 
-gh-pages: build
+gh-pages: build-gh-pages
 	ghp-import -n $(BUILD_DIR) -p -f
+
+clean:
+	rm -rf $(BUILD_DIR)

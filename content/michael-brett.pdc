@@ -1,0 +1,19 @@
+---
+# YAML metadata
+title: Michael Brett
+date: 2020-05-28T17:07:20+01:00
+draft: false
+entity:
+  type: person
+  year: 1871
+---
+
+From [Christiana Payne's biography of John brett]({{< relref "payne_john_brett.pdc" >}}) p 109, Michael born on  July 1871.
+
+See [Michael's Wikisource data](https://en.wikisource.org/wiki/Author_talk:Michael_Brett). This suggests is birth record is (FreeBMD):
+
+> Births Dec 1872
+>
+> BRETT Michael Dorking 2a 137
+
+Michael Brett [married Nellie Mary Lee]({{< relref "brett-lee.pdc" >}}).

@@ -1,0 +1,26 @@
+---
+title: "Whitehead - Langford"
+date: 2020-05-28T17:07:20+01:00
+draft: false
+entity:
+  type: family
+  year: 1901
+---
+
+About the family of [Gilbert Hinds Whitehead]({{< relref
+"gilbert-hinds-whitehead.pdc" >}}) and [Helena Emmeline Langford]({{< relref
+"helena-emmeline-langford.pdc" >}}).
+
+See [Whitehead extract from Burke's peerage]({{< relref "burkes_whitehead.pdc"
+>}}) for full summary of Whitehead family tree to 1949.  From that source, the couple:
+
+* Married on 10 April 1901;
+* had one child [Margaret Joy]({{< relref "margaret-joy-whitehead.pdc" >}}),
+  on 5 May 1928.
+
+Marriage record is very likely to be:
+
+```
+Marriages Jun 1901   (>99%)
+Whitehead	 Gilbert Hinds	 	 Truro	 5c	237
+```

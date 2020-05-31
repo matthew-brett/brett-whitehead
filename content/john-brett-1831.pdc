@@ -1,0 +1,33 @@
+---
+# YAML metadata
+title: John Brett (b 1831)
+date: 2020-05-28T17:07:20+01:00
+draft: false
+entity:
+  type: person
+  year: 1831
+---
+
+See [John Brett's wikipedia
+entry](https://en.wikipedia.org/wiki/John_Brett_(artist))
+
+The Dictionary of National Biography (1912) on [John Brett (the
+painter)](https://en.wikisource.org/wiki/Brett,_John_(DNB12)). "BRETT, JOHN
+(1831–1902), landscape painter, born at Bletchingley, Surrey, on 8 Dec. 1831,
+was eldest son of Captain Charles Curtis Brett of the 12th lancers by his wife
+Ann Philbrick. [...] He died in his house at Putney on 8 Jan. 1902. He married
+in 1870, and had four sons and three daughters who survived him. A portrait in
+oils by himself, painted about 1865, belongs to his son, Mr. Michael Brett. "
+
+The current ODNB article (behind a paywall) adds "Captain Charles Curtis Brett
+(1789–1865), an army veterinarian" and "Ann Pilbean (b. 1808/9)".  "About 1870
+Brett met, and later married, Mary Ann Howcroft (b. 1844/5), with whom he had
+seven children, the first being born in either 1871 or 1872. "
+
+His parents were [Charles Curtis Brett and Ann Pilbean]({{< relref
+"brett-pilbean.pdc" >}}).
+
+John settled and had a [family with Mary Ann Howcroft]({{< relref
+"brett-howcroft.pdc" >}}).
+
+See [Christiana Payne's biography]({{< relref "payne_john_brett.pdc" >}}).

@@ -1,7 +1,11 @@
 ---
 # YAML metadata
 title: John Brett (b 1905)
-author: Matthew Brett
+date: 2020-05-28T17:07:20+01:00
+draft: false
+entity:
+  type: person
+  year: 1905
 ---
 
 John [died in World War
@@ -9,11 +13,14 @@ John [died in World War
 Gloucester](https://www.naval-history.net/xGM-Chrono-06CL-HMS_Gloucester.htm)
 sank, on May 22nd 1941.
 
-He married Margaret Joy Whitehead on 5 May 1928 - see section on Margaret Joy
-Whitehead.
+He was born on 27 March 1905 (see [Peerage.com
+article](http://www.thepeerage.com/p31682.htm#i316813)).
 
-John was the son of Michael Brett, who was the eldest son of [John
-Brett, the painter](https://en.wikipedia.org/wiki/John_Brett_(artist)).
+He married [Margaret Joy Whitehead on 5 May 1928]({{< relref
+"brett-whitehead.pdc" >}}).
+
+John was the son of Michael Brett, who was the eldest son of [John Brett, the
+painter]({{< relref "john-brett-1831.pdc" >}}).
 
 He was commissioned into the Royal Navy on 15 September 1918, and gained
 these ranks:

@@ -1,4 +1,5 @@
 *~
 *.swp
 *.aux
-.html/
+public/
+resources/

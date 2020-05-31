@@ -1,0 +1,29 @@
+---
+# YAML metadata
+title: Margaret Joy Whitehead
+date: 2020-05-28T17:07:20+01:00
+draft: false
+entity:
+  type: person
+  year: 1905
+---
+
+Margaret Joy went by "Joy".
+
+Her parents were [Gilbert Hinds Whitehead and Helena Emmeline Whitehead]({{<
+relref "whitehead-langford.pdc" >}}).
+
+Margaret Joy was born on 5 May 1928 (see [Whitehead extract from Burke's peerage]({{< relref "burkes_whitehead.pdc"
+>}})).
+
+She [married John Brett]({{< relref "john-brett-1905.pdc" >}}) in 1928.
+
+John died in 1941.  Joy married to Robert Clement Giles in 1965 (see Burke's
+reference above).
+
+She died in 1981 <https://www.freebmd.org.uk>:
+
+```
+Deaths Jun 1981   (>99%)
+GILES	 MARGARET JOY	 12JE1905	 SURREY S W	 17	1323
+```

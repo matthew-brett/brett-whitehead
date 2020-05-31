@@ -1,0 +1,27 @@
+---
+# YAML metadata
+title: Gilbert Hinds Whitehead
+date: 2020-05-28T17:07:20+01:00
+draft: false
+entity:
+  type: person
+  year: 1872
+---
+
+According to a [Peerage.com page on Sir James
+Whitehead](http://www.thepeerage.com/p31678.htm#i316772), Gilbert Hinds
+Whitehead was the fifth child (and third son) of [Sir James Whitehead, 1st
+Baronet](https://en.wikipedia.org/wiki/Sir_James_Whitehead,_1st_Baronet) and
+Mercy Matilda Hinds.
+
+He [married Helena Emmeline Langford]({{< relref "helena-emmeline-langford.pdc"
+>}}).
+
+Death record (FreeBMD):
+
+```
+Deaths Dec 1949   (>99%)
+Whitehead	 Helena E	 77	 Woolwich	 5d	878
+```
+
+See also [Whitehead family grave]({{< relref "whitehead_grave.pdc" >}}).
