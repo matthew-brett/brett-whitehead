@@ -1,0 +1,41 @@
+---
+title: "UK Birth, marriage, death records from FreeBMD"
+date: 2020-05-28T17:07:20+01:00
+draft: false
+entity:
+  type: source
+---
+
+These are records from searches on <https://www.freebmd.org.uk>.
+
+## Births
+
+ Period | Surname | First name(s) | Mother | District | Vol | Page | Notes
+--------|---------|---------------|--------|----------|-----|------|------
+Dec 1837 | BRAGINTON | Louisa | | Launceston | 9 | 125 |
+Mar 1903 | Brett | Joan | | Hendon | 3a | 220 |
+Dec 1872 | BRETT | Michael | | Dorking | 2a | 137 |
+Jun 1910 | BRETT | Peter | | B Stortford | 3a | 759 |
+Mar 1865 | Johns | Edmund Allen | | Torrington | 5b | 549 |
+Mar 1859 | JOHNS | Ellen Macarmick | | Torrington | 5b | 481 |
+Jun 1868 | LANGFORD | Albert Leonard | | Plymouth | 5b | 265 |
+
+## Marriages
+
+ Period | Surname | First name(s) | Spouse surname | District | Vol | Page | Notes
+--------|---------|---------------|--------|----------|-----|------|------
+Jun 1928 | Brett | John | Whitehead | Lewisham |    1d | 2117 |
+Mar 1902 | Brett | Michael | Wandsworth | | 1d | 929 |
+Mar 1857 | Johns | Edmund Allen | | Torrington | 5b | 793 |
+Jun 1866 | LANGFORD | Henry A | Plymouth | | 5b | 437 |
+Jun 1901 | Whitehead | Gilbert Hinds | | Truro | 5c | 237 |
+
+## Deaths
+
+ Period | Surname | First name(s) | Age | District | Vol | Page | Notes
+--------|---------|---------------|-----|----------|-----|------|------
+Dec 1943 | Brett | Michael | 72 | Newton A. | 5b | 182 |
+Dec 1864 | Johns | Edmund Allen | | Truro | 5c | 113 |
+Dec 1879 | Langford | Albert Leonard | 11 | Plymouth | 5b | 193 |
+Dec 1949 | Whitehead|  Helena E|  77|  Woolwich|  5d| 878 |
+

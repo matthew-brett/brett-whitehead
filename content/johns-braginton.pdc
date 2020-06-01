@@ -9,15 +9,13 @@ entity:
 
 Family page for Edmund Allen Johns and 
 
-Edmund Allen Johns married Clara Braginton in 1857.  See their [marriage record transcription]({{< relref "marriage_johns_braginton.pdc" >}}).  The FreeBMD record is:
+Edmund Allen Johns married Clara Braginton in 1857.  See their [marriage record
+transcription]({{< relref "marriage_johns_braginton.pdc" >}}), and the [BMD
+record]({{< relref "bmd_records.pdc" >}}).
 
-> Marriages Mar 1857
->
-> Johns   Edmund Allen            Torrington      5b     793
-
-From the page above, and the census records below, and that listed in Helena
-Emmeline Langford's page, Clara Louisa and Edmund Allen had at least three
-children:
+From the page above, and the census records below, and that listed in [Helena
+Emmeline Langford's page]({{< relref "helena-emmeline-langford.pdc" >}}), Clara
+Louisa and Edmund Allen had at least three children:
 
 * [Ellen Maccarmick
   Johns](https://gw.geneanet.org/jankingshott?lang=en&p=ellen+macarmick&n=johns)
@@ -27,25 +25,9 @@ children:
   (1862 - 1952)
 * Edmond Allen Johns (1865 - 1929)
 
-Ellen's birth record is:
+See [BMD birth records]({{< relref "bmd_records.pdc" >}}) for Ellen and Edmund Allen
 
-> Births Mar 1859
->
-> JOHNS  Ellen Macarmick     Torrington  5b 481
-
-Edmond (or Edmund) Allen's birth record is:
-
-> Births Mar 1865
->
-> JOHNS  Edmund Allen     Torrington  5b 549
-
-Edmund Allen Johns (the father) died in Truro in 1864, age 35.
-
-> Deaths Dec 1864   (>99%)
->
-> Johns   Edmund Allen            Truro   5c     113
-
-See also [this grave
+Edmund Allen Johns (the father) died in Truro in 1864, age 35.  See [BMD death record]({{< relref "bmd_records.pdc" >}})), and [this grave
 inscription](http://sites.rootsweb.com/~enggerop/gerrans_mis_f_m.htm):
 
 > Sacred to the memory of Philippa Maccarmick Johns Who departed this life The

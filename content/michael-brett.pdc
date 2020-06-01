@@ -10,10 +10,12 @@ entity:
 
 From [Christiana Payne's biography of John brett]({{< relref "payne_john_brett.pdc" >}}) p 109, Michael born on  July 1871.
 
-See [Michael's Wikisource data](https://en.wikisource.org/wiki/Author_talk:Michael_Brett). This suggests is birth record is (FreeBMD):
-
-> Births Dec 1872
->
-> BRETT Michael Dorking 2a 137
+See [Michael's Wikisource data](https://en.wikisource.org/wiki/Author_talk:Michael_Brett). This suggests his [BMD birth record]({{< relref "bmd_records.pdc" >}}).
 
 Michael Brett [married Nellie Mary Lee]({{< relref "brett-lee.pdc" >}}).
+
+He died on 9 December 1943.  Probate:
+
+> BRETT Michael of Hangerlea Stansted-road Bishops Stortford Hertfordshire died
+> 9 December 1943 at Teignmouth Devonshire Probate Llandudno 17 April to Nellie
+> Mary Brett widow.  Effects £6622 7s. 2d.
