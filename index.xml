@@ -75,11 +75,9 @@ The record for John Brett’s household in the 1881 census records these househo
       
       <guid>https://matthew-brett.github.io/brett-whitehead/brett-lee/</guid>
       <description>Data for the family of Michael Brett and Nellie Mary Lee.
-Their marriage is probably (FreeBMD):
- Marriages Mar 1902
-Brett Michael Wandsworth 1d 929
- Michael’s census record for 1911 shows him to be living in Hangerlea, Stansted Road, Bishop’s Stortford, with this household:
-  Name Age    Michael Brett 39  Nellie Mary Brett 29  Joan Brett 8  John Brett 6  Peter Brett 1  Tirzah Faulder 25  Caroline Alice Hudgell 24  Annie Amelia Smith 27    Children  Joan Brett John Brett.</description>
+They married in 1902 - see BMD record.
+Michael’s census record for 1911 shows him to be living in Hangerlea, Stansted Road, Bishop’s Stortford, with this household:
+  Name Age    Michael Brett 39  Nellie Mary Brett 29  Joan Brett 8  John Brett 6  Peter Brett 1  Tirzah Faulder 25  Caroline Alice Hudgell 24  Annie Amelia Smith 27    Children  Joan Brett (1903) John Brett (1905) Peter Brett (1910)  See BMD record for Joan, Peter’s records; John’s birth record is a little more difficult to work out.</description>
     </item>
     
     <item>
@@ -101,8 +99,8 @@ Charles Curtis Brett’s household in the 1851 census:
       
       <guid>https://matthew-brett.github.io/brett-whitehead/brett-whitehead/</guid>
       <description>Note for the family of John Brett (b 1905) and (Margaret) Joy Whitehead.
-From the https://www.freebmd.org.uk entry below, they married in 1928.
-Type: Marriages Surname: Brett First name(s): John Start date: Mar 1920 End date: Dec 1935 Spouse/Mother&amp;#39;s surname: Whitehead Spouse&amp;#39;s first name(s): Margaret Marriages Jun 1928 Brett John Whitehead Lewisham 1d 2117 John and Joy had three children:
+They married on 5 May 1928. See also BMD record.
+John and Joy had three children:
  Sue Oliver Jenifer Brooke-Smith Martin Brett b 1939-01-06.  </description>
     </item>
     
@@ -137,10 +135,19 @@ Quoting from that extract:
       <description>Clara Louisa’s parents were George Braginton and Margaret Grace Vicary.
 Also see this page on Braginton family history.
 From that page: Clara Louisa’s father was a shipowner, and probably named one of his ships “Clara Louisa” after his daughter.
-Clara Louisa’s birth record may well be:
- Births Dec 1837
-BRAGINTON Louisa Launceston 9 125
- Clara Louisa married Edmund Allen Johns in 1857. They had three children. Edmund Allen died in 1864.</description>
+Clara was born in 1837 - see BMD record.
+Clara Louisa married Edmund Allen Johns in 1857. They had three children. Edmund Allen died in 1864.
+Clara Louisa married Henry Alfred Langford in 1866.</description>
+    </item>
+    
+    <item>
+      <title>FreeBMD / GRO records</title>
+      <link>https://matthew-brett.github.io/brett-whitehead/bmd_records/</link>
+      <pubDate>Thu, 28 May 2020 17:07:20 +0100</pubDate>
+      
+      <guid>https://matthew-brett.github.io/brett-whitehead/bmd_records/</guid>
+      <description>These are UK birth, marriage and death records from searches on https://www.freebmd.org.uk, or directly from the UK General Record Office.
+Births   Period Surname First name(s) Mother District Vol Page Notes    Dec 1837 BRAGINTON Louisa  Launceston 9 125   Mar 1903 Brett Joan  Hendon 3a 220   Dec 1872 BRETT Michael  Dorking 2a 137   Jun 1910 BRETT Peter  B Stortford 3a 759   Mar 1865 Johns Edmund Allen  Torrington 5b 549   Mar 1859 JOHNS Ellen Macarmick  Torrington 5b 481   Jun 1868 LANGFORD Albert Leonard  Plymouth 5b 265     Marriages   Period Surname First name(s) Spouse surname District Vol Page Notes    Jun 1928 Brett John Whitehead Lewisham 1d 2117   Mar 1902 Brett Michael  Wandsworth 1d 929   Mar 1857 Johns Edmund Allen  Torrington 5b 793   Jun 1866 LANGFORD Henry A  Plymouth 5b 437   Jun 1890 Roe Samuel Henry F  Portsea 2b 942   Jun 1901 Whitehead Gilbert Hinds  Truro 5c 237     Deaths   Period Surname First name(s) Age District Vol Page Notes    Dec 1943 Brett Michael 72 Newton A.</description>
     </item>
     
     <item>
@@ -164,8 +171,7 @@ Deaths Dec 1949 (&amp;gt;99%) Whitehead Helena E 77 Woolwich 5d 878 See also Whi
       <description>Martin Brett tells me that “Granny Whitehead” preferred “Emmeline”.
 Emmeline’s parents were Henry Albert Langford and Clara Louisa Braginton.
 Emmeline married Gilbert Hinds Whitehead.
-Death record (FreeBMD):
-Deaths Dec 1949 (&amp;gt;99%) Whitehead Helena E 77 Woolwich 5d 878 See also Whitehead family grave and Whitehead extract from Burke’s peerage.
+See also Whitehead family grave and Whitehead extract from Burke’s peerage.
 In the 1881 census, Helena Emmilina Langford was at 5 North Hills Terrace, in the following household:
   Name Age Relation Marriage Profession    Clara Louisa Langford 42 Head Widow Lady  Ellen Macornick Johns 22 Daughter Single Lady  Richard Braginton Johns 18 Son Single Solicitor’s articled clerk  Helena Emmilina Langford 8 Daughter Single Scholar  George Stawell Tuckey 27 Visitor Single Solicitor  Fanny Gent 47 Servant Single Cook Domestic  Elizabeth Dunn 16 Servant Single Housemaid    See the HEL 1881 census original image</description>
     </item>
@@ -189,7 +195,7 @@ The Dictionary of National Biography (1912) on John Brett (the painter). “BRET
       <description>John died in World War 2, when his ship HMS Gloucester sank, on May 22nd 1941.
 He was born on 27 March 1905 (see Peerage.com article).
 He married Margaret Joy Whitehead on 5 May 1928.
-John was the son of Michael Brett, who was the eldest son of John Brett, the painter.
+John’s parents were Michael Brett and Nellie Mary Lee. Michael was the eldest son of John Brett, the painter.
 He was commissioned into the Royal Navy on 15 September 1918, and gained these ranks:
  Midshipman: 15 January 1923 Sub-Lieutenant: 15 November 1925 Lieutenant: 15 November 1927 Lieutenant-Commander: 15 November 1935.</description>
     </item>
@@ -217,11 +223,9 @@ ISBN: 9780300165753
       
       <guid>https://matthew-brett.github.io/brett-whitehead/johns-braginton/</guid>
       <description>Family page for Edmund Allen Johns and
-Edmund Allen Johns married Clara Braginton in 1857. See their marriage record transcription. The FreeBMD record is:
- Marriages Mar 1857
-Johns Edmund Allen Torrington 5b 793
- From the page above, and the census records below, and that listed in Helena Emmeline Langford’s page, Clara Louisa and Edmund Allen had at least three children:
- Ellen Maccarmick Johns (1859 - 1938) Richard Braginton Johns (1862 - 1952) Edmond Allen Johns (1865 - 1929)  Ellen’s birth record is:</description>
+Edmund Allen Johns married Clara Braginton in 1857. See their marriage record transcription, and the BMD record.
+From the page above, and the census records below, and that listed in Helena Emmeline Langford’s page, Clara Louisa and Edmund Allen had at least three children:
+ Ellen Maccarmick Johns (1859 - 1938) Richard Braginton Johns (1862 - 1952) Edmond Allen Johns (1865 - 1929)  See BMD birth records for Ellen and Edmund Allen</description>
     </item>
     
     <item>
@@ -230,14 +234,10 @@ Johns Edmund Allen Torrington 5b 793
       <pubDate>Thu, 28 May 2020 17:07:20 +0100</pubDate>
       
       <guid>https://matthew-brett.github.io/brett-whitehead/langford-braginton/</guid>
-      <description>Henry A Langford married Clara Louisa Johns (née Braginton) in 1866, in Plymouth:
- Marriages Jun 1866
-LANGFORD Henry A Plymouth 5b 437
- This Burke’s peerage entry states that Helena Emmeline Langford was the daughter of Henry A. Langford.
-Apart from Helena Emmeline, there was only one other Langford born in Plymouth between 1864 and 1890:
- Births Jun 1868 (&amp;gt;99%)
-LANGFORD Albert Leonard Plymouth 5b 265
- Albert Leonard Langford died at age 11, also in Plymouth, which would explain why he is not in Clara Louisa’s Household in the 1881 census.</description>
+      <description>Henry A Langford married Clara Louisa Johns (née Braginton) in 1866, in Plymouth (BMD record).
+This Burke’s peerage entry states that Helena Emmeline Langford was the daughter of Henry A. Langford.
+Apart from Helena Emmeline, there was only one other Langford born in Plymouth between 1864 and 1890 - Albert Leonard Langford, in 1868 (BMD record).
+Albert Leonard Langford died at age 11, also in Plymouth, which would explain why he is not in Clara Louisa’s Household in the 1881 census (BMD record).</description>
     </item>
     
     <item>
@@ -250,9 +250,8 @@ LANGFORD Albert Leonard Plymouth 5b 265
 Her parents were Gilbert Hinds Whitehead and Helena Emmeline Whitehead.
 Margaret Joy was born on 5 May 1928 (see Whitehead extract from Burke’s peerage).
 She married John Brett in 1928.
-John died in 1941. Joy married to Robert Clement Giles in 1965 (see Burke’s reference above).
-She died in 1981 https://www.freebmd.org.uk:
-Deaths Jun 1981 (&amp;gt;99%) GILES MARGARET JOY 12JE1905 SURREY S W 17 1323 </description>
+John died in 1941. Joy married Robert Clement Giles in 1965 (see Burke’s reference above).
+She died in 1981 (BMD record).</description>
     </item>
     
     <item>
@@ -282,10 +281,12 @@ Deaths Jun 1981 (&amp;gt;99%) GILES MARGARET JOY 12JE1905 SURREY S W 17 1323 </d
       
       <guid>https://matthew-brett.github.io/brett-whitehead/michael-brett/</guid>
       <description>From Christiana Payne’s biography of John brett p 109, Michael born on July 1871.
-See Michael’s Wikisource data. This suggests is birth record is (FreeBMD):
- Births Dec 1872
-BRETT Michael Dorking 2a 137
- Michael Brett married Nellie Mary Lee.</description>
+See Michael’s Wikisource data. This suggests his BMD birth record.
+His parents were John Brett and Mary Howcroft.
+Michael Brett married Nellie Mary Lee.
+There is a page on Michael at ancestry.co.uk.
+He died on 9 December 1943, with probate:
+ BRETT Michael of Hangerlea Stansted-road Bishops Stortford Hertfordshire died 9 December 1943 at Teignmouth Devonshire Probate Llandudno 17 April to Nellie Mary Brett widow.</description>
     </item>
     
     <item>
@@ -308,7 +309,8 @@ Mary was baptized on month day 1844, at baptism place.</description>
       
       <guid>https://matthew-brett.github.io/brett-whitehead/roe-braginton/</guid>
       <description>The family of Samuel Henry Farwell Roe and Alice Jane Braginton.
-Marriages Jun 1890 (&amp;gt;99%) Roe Samuel Henry F Portsea 2b 942 It seems they had no children. Alice Jane was 44 when they married.</description>
+They married in 1890 (BMD record).
+It seems they had no children. Alice Jane was 44 when they married.</description>
     </item>
     
     <item>
@@ -333,10 +335,7 @@ Farwell was vicar at Zennor, Cornwall from 1888 to 1900. From this blog on an hi
       <guid>https://matthew-brett.github.io/brett-whitehead/whitehead-langford/</guid>
       <description>About the family of Gilbert Hinds Whitehead and Helena Emmeline Langford.
 See Whitehead extract from Burke’s peerage for full summary of Whitehead family tree to 1949. From that source, the couple:
- Married on 10 April 1901; had one child Margaret Joy, on 5 May 1928.  See transcription of full marriage record
-Marriage record is very likely to be:
- Marriages Jun 1901 (&amp;gt;99%)
-Whitehead Gilbert Hinds Truro 5c 237</description>
+ Married on 10 April 1901; had one child Margaret Joy, on 5 May 1928.  See transcription of full marriage record, and BMD record.</description>
     </item>
     
     <item>
