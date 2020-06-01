@@ -8,10 +8,8 @@ entity:
   year: 1845
 ---
 
-Alice Jane's birth record is probably:
-
-> Births Mar 1846
-> BRAGINTON  Alice Jane    Torrington  10 325
+Alice Jane's birth record is was probably born in 1846 ([BMD record]({{< relref
+"bmd_records.pdc" >}})).
 
 [This page on Braginton family history]({{< relref "braginton_history.pdc" >}})
 has her baptism date as 1845, and [this Genenet
@@ -21,10 +19,7 @@ she was baptised on 22nd December 1845.
 [Alice Jane married Samuel Henry Farwell Roe]({{< relref "roe-braginton.pdc"
 >}}) in 1890.
 
-She died on 28 October 1929:
-
-> Deaths Dec 1929
-> Roe  Alice J  84  Liskeard  5c 44
+She died on 28 October 1929 ([BMD record]({{< relref "bmd_records.pdc" >}})).
 
 [Alice Jane's probate](/images/roe_aj_probate.png) is:
 
