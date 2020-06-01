@@ -1,0 +1,34 @@
+---
+# YAML metadata
+title: Alice Jane Braginton
+date: 2020-05-28T17:07:20+01:00
+draft: false
+entity:
+  type: person
+  year: 1845
+---
+
+Alice Jane's birth record is probably:
+
+> Births Mar 1846
+> BRAGINTON  Alice Jane    Torrington  10 325
+
+[This page on Braginton family history]({{< relref "braginton_history.pdc" >}})
+has her baptism date as 1845, and [this Genenet
+page](https://gw.geneanet.org/jankingshott?n=braginton&oc=&p=alice+jane) says
+she was baptised on 22nd December 1845.
+
+[Alice Jane married Samuel Henry Farwell Roe]({{< relref "roe-braginton.pdc"
+>}}) in 1890.
+
+She died on 28 October 1929:
+
+> Deaths Dec 1929
+> Roe  Alice J  84  Liskeard  5c 44
+
+[Alice Jane's probate](/images/roe_aj_probate.png) is:
+
+> ROE Alice Jane of St Pinnock Rectory near Liskeard Cornwall (wife of the
+> reverend Samuel Henry Farwell Roe) died 23 October 1929 Probate London 23
+> December to the said reverend Samuel Henry Farwell Roe clerk and Helena
+> Emmeline Whitehead widow.  Effects £6539 5s. 5d.
