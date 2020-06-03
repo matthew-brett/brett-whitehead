@@ -5,12 +5,29 @@
 
   <div class="catalogue">
   {{ .Content }}
-    <h2 class="posts-name">Familes:</h2>
+    <h2 class="posts-name">Family pages</h2>
 
     <ul class="posts">
     {{ $baseurl := .Site.BaseURL }}
     {{ range $name, $page := (.Site.Pages.ByParam "entity.year").Reverse }}
     {{ if (and (isset .Params "entity") (eq .Params.entity.type "family")) }}
+    <li>
+      {{ if .Draft }}
+      DRAFT: 
+      {{ end }}
+          <a href="{{ .Permalink }}">{{ $page.Title }}</a>
+          ({{ .Params.entity.year }})
+
+    </li>
+    {{ end }}
+    {{ end }}
+    </ul>
+    <h2 class="posts-name">People pages</h2>
+
+    <ul class="posts">
+    {{ $baseurl := .Site.BaseURL }}
+    {{ range $name, $page := (.Site.Pages.ByParam "entity.year").Reverse }}
+    {{ if (and (isset .Params "entity") (eq .Params.entity.type "person")) }}
     <li>
       {{ if .Draft }}
       DRAFT: 
