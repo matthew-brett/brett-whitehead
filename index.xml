@@ -5,11 +5,7 @@
     <link>https://matthew-brett.github.io/brett-whitehead/</link>
     <description>Recent content on Brett-Whitehead family history</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://matthew-brett.github.io/brett-whitehead/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://matthew-brett.github.io/brett-whitehead/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://matthew-brett.github.io/brett-whitehead/about/</link>
@@ -76,7 +72,7 @@ The record for John Brett’s household in the 1881 census records these househo
       <description>Data for the family of Michael Brett and Nellie Mary Lee.
 They married in 1902 - see BMD record.
 Michael’s census record for 1911 shows him to be living in Hangerlea, Stansted Road, Bishop’s Stortford, with this household:
-  Name Age    Michael Brett 39  Nellie Mary Brett 29  Joan Brett 8  John Brett 6  Peter Brett 1  Tirzah Faulder 25  Caroline Alice Hudgell 24  Annie Amelia Smith 27    Children  Joan Brett (1903) John Brett (1905) Peter Brett (1910)  See BMD record for Joan, Peter’s records; John’s birth record is a little more difficult to work out.</description>
+  Name Age    Michael Brett 39  Nellie Mary Brett 29  Joan Brett 8  John Brett 6  Peter Brett 1  Tirzah Faulder 25  Caroline Alice Hudgell 24  Annie Amelia Smith 27    Martin Brett described Nellie (“Granny Brett”) as “wonderfully accommodating”.</description>
     </item>
     
     <item>
@@ -100,7 +96,7 @@ Charles Curtis Brett’s household in the 1851 census:
       <description>Note for the family of John Brett (b 1905) and (Margaret) Joy Whitehead.
 They married on 5 May 1928. See also BMD record.
 John and Joy had three children:
- Sue Oliver (1929). Jenifer Brooke-Smith (1931). Martin Brett (1939).  See BMD records.</description>
+ Sue Oliver (Malta, 24 May 1929 — 21 March 2021). Jenifer Brooke-Smith (Portsmouth, September 1931). Martin Brett (Woolwich 6 January 1939).  See BMD records.</description>
     </item>
     
     <item>
@@ -146,7 +142,7 @@ Clara Louisa married Henry Alfred Langford in 1866.</description>
       
       <guid>https://matthew-brett.github.io/brett-whitehead/bmd_records/</guid>
       <description>These are UK birth, marriage and death records from searches on https://www.freebmd.org.uk, or directly from the UK General Record Office.
-Births   Period Surname First name(s) Mother District Vol Page Notes    Dec 1837 BRAGINTON Louisa  Launceston 9 125   Mar 1846 BRAGINTON Alice Jane  Torrington 10 325   Sep 1931 Brett Jenifer Whitehead Portsmouth 2b 771   Mar 1939 Brett Martin Whitehead Woolwich 1d 1299 6 January 1939  Mar 1903 Brett Joan  Hendon 3a 220   Dec 1872 BRETT Michael  Dorking 2a 137   Jun 1910 BRETT Peter  B Stortford 3a 759   Mar 1865 Johns Edmund Allen  Torrington 5b 549   Mar 1859 JOHNS Ellen Macarmick  Torrington 5b 481   Jun 1868 LANGFORD Albert Leonard  Plymouth 5b 265   Dec 1837 LANGFORD Henry Albert  Liskeard 9 138   Sep 1856 Roe Samuel Henry Farwell  Camelford 5c 10     Marriages   Period Surname First name(s) Spouse surname District Vol Page Notes    Jun 1928 Brett John Whitehead Lewisham 1d 2117   Mar 1902 Brett Michael  Wandsworth 1d 929   Mar 1857 Johns Edmund Allen  Torrington 5b 793   Jun 1866 LANGFORD Henry A  Plymouth 5b 437   Jun 1890 Roe Samuel Henry F  Portsea 2b 942   Jun 1901 Whitehead Gilbert Hinds  Truro 5c 237     Deaths   Period Surname First name(s) Age District Vol Page Notes    Dec 1943 Brett Michael 72 Newton A.</description>
+Births   Period Surname First name(s) Mother District Vol Page Notes    Dec 1837 BRAGINTON Louisa  Launceston 9 125   Mar 1846 BRAGINTON Alice Jane  Torrington 10 325   Sep 1931 Brett Jenifer Whitehead Portsmouth 2b 771   Mar 1939 Brett Martin Whitehead Woolwich 1d 1299 6 January 1939  Mar 1903 Brett Joan  Hendon 3a 220   Dec 1872 BRETT Michael  Dorking 2a 137   Jun 1910 BRETT Peter  B Stortford 3a 759   Mar 1865 Johns Edmund Allen  Torrington 5b 549   Mar 1859 JOHNS Ellen Macarmick  Torrington 5b 481   Jun 1868 LANGFORD Albert Leonard  Plymouth 5b 265   Dec 1837 LANGFORD Henry Albert  Liskeard 9 138   Sep 1856 Roe Samuel Henry Farwell  Camelford 5c 10   Sep 1905 Whitehead Margaret Joy  Lewisham 1d 1131     Marriages   Period Surname First name(s) Spouse surname District Vol Page Notes    Jun 1928 Brett John Whitehead Lewisham 1d 2117   Mar 1902 Brett Michael  Wandsworth 1d 929   Mar 1857 Johns Edmund Allen  Torrington 5b 793   Jun 1866 LANGFORD Henry A  Plymouth 5b 437   Jun 1890 Roe Samuel Henry F  Portsea 2b 942   Jun 1901 Whitehead Gilbert Hinds  Truro 5c 237     Deaths   Period Surname First name(s) Age District Vol Page Notes    Dec 1943 Brett Michael 72 Newton A.</description>
     </item>
     
     <item>
@@ -367,10 +363,10 @@ Born 10 May 1872, died 18 Oct 1949
     
     <item>
       <title></title>
-      <link>https://matthew-brett.github.io/brett-whitehead/notes/</link>
+      <link>https://matthew-brett.github.io/brett-whitehead/roe-braginton-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://matthew-brett.github.io/brett-whitehead/notes/</guid>
+      <guid>https://matthew-brett.github.io/brett-whitehead/roe-braginton-notes/</guid>
       <description>Reverend Samuel Henry Farwell Roe
 Births Sep 1856 (&amp;gt;99%) Roe Samuel Henry Farwell Camelford 5c 10
 Deaths Mar 1943 (&amp;gt;99%) ROE Samuel H F 86 Barnstaple 5b 567
@@ -382,14 +378,15 @@ Deaths Mar 1948 (&amp;gt;99%) Roe Jane 69 Barnstaple 7a 293</description>
     </item>
     
     <item>
-      <title>Talking to Marting Brett</title>
+      <title>Talking to Martin Brett</title>
       <link>https://matthew-brett.github.io/brett-whitehead/talk_to_martin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://matthew-brett.github.io/brett-whitehead/talk_to_martin/</guid>
       <description>Conversation between Matthew and Martin Brett, 10 May 2020 Helena Emmeline preferred “Emmeline”.
 Emmeline lived with “Aunt Alice” and an unfriendly vicar in Zennor, in Cornwall. She (Granny Whitehead) would do an impression of the thick accent of the postman.
-A distant relative, surname Johns, gave a significant amount of money to Emmeline in his will, enough to buy a car.</description>
+A distant relative, surname Johns, gave a significant amount of money to Emmeline in his will, enough to buy a car.
+Another conversation maybe in June Joan, John and Peter Brett were the three children of Michael Brett and Nellie Mary Lee.</description>
     </item>
     
   </channel>
