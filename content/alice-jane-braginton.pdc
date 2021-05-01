@@ -8,7 +8,7 @@ entity:
   year: 1845
 ---
 
-Alice Jane's birth record is was probably born in 1846 ([BMD record]({{< relref
+Alice Jane's was probably born in 1845 ([BMD record]({{< relref
 "bmd_records.pdc" >}})).
 
 [This page on Braginton family history]({{< relref "braginton_history.pdc" >}})
