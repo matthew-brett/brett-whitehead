@@ -1,172 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://matthew-brett.github.io/brett-whitehead/about/</loc>
     <lastmod>2020-05-29T10:33:09+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/alice-jane-braginton/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/braginton-vicary/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/braginton_history/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/brett-howcroft/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/brett-lee/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/brett-pilbean/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/brett-whitehead/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/burkes_whitehead/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/charles-curtis-brett/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/clara-louisa-braginton/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/bmd_records/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/gilbert-hinds-whitehead/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/helena-emmeline-langford/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/henry-albert-langford/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/john-brett-1831/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/john-brett-1905/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/payne_john_brett/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/johns-braginton/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/langford-braginton/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/margaret-joy-whitehead/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/marriage_johns_braginton/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/marriage_whitehead_langford/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/michael-brett/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/mh_mary_howcroft/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/roe-braginton/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/samuel-henry-farwell-roe/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/whitehead-langford/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/whitehead_grave/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/roe-braginton-notes/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/talk_to_martin/</loc>
   </url>
-  
 </urlset>
