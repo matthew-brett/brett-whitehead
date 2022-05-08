@@ -3,3 +3,16 @@ title = "Brett-Whitehead family history"
 newContentEditor = "ggvr"
 theme = "tale"
 canonifyurls = "true"
+
+[security]
+  enableInlineShortcodes = false
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', 'pandoc$']
+    osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+
+  [security.funcs]
+    getenv = ['^HUGO_']
+
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']

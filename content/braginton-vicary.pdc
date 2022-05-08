@@ -8,7 +8,8 @@ entity:
 ---
 
 See [this page on Braginton family history]({{< relref "braginton_history.pdc"
->}}).
+>}}), and [this page on Vicary family history]({{< relref
+"vicary_history.pdc" >}}).
 
 > George Braginton, the oldest son of Richard Braginton, was baptised on 28
 > Feb 1808 in Ottery St Mary, Devon. On 13 Jan 1835, at St Giles in the Wood,
@@ -28,7 +29,7 @@ died on 24 November 1868 (GRO Index Dec 1868 Plympton 5b 163)
 George and Margaret Grace had six children baptised at St Giles in the Wood:
 
 * Margaret Ann Braginton (1835-1890)
-* [Clara Louisa Braginton]({{< relref "clara-louisa-braginton.pdc" >}}){
+* [Clara Louisa Braginton]({{< relref "clara-louisa-braginton.pdc" >}})
   (1837-?)
 * George Vicary Braginton (1840-1842)
 * Georgiana Merrill Braginton (1843-1924)
