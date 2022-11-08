@@ -5,17 +5,14 @@ date: 2020-05-28T17:07:20+01:00
 draft: false
 entity:
   type: person
-  year: 1872
+  year: 1866
 ---
 
-According to a [Peerage.com page on Sir James
-Whitehead](http://www.thepeerage.com/p31678.htm#i316772), Gilbert Hinds
-Whitehead was the fifth child (and third son) of [Sir James Whitehead, 1st
-Baronet](https://en.wikipedia.org/wiki/Sir_James_Whitehead,_1st_Baronet) and
-Mercy Matilda Hinds.
+Gilbert Hinds was born on 26 May 1866, the fifth child of [James Whitehead and
+Mercy Matilda Hinds]({{< relref "whitehead-hinds.pdc" >}}).
 
-He was born 26th May 1866, and [married Helena Emmeline Langford]({{< relref
-"helena-emmeline-langford.pdc" >}}) in 1901.
+He [married Helena Emmeline Langford]({{< relref "helena-emmeline-langford.pdc"
+>}}) in 1901.
 
 In 1890, he became a Liveryman of the Worshipful Company of Fruiterers and
 a Freeman of the City of London — see his profile in the [archives of the
@@ -62,6 +59,3 @@ Gilbert died of
 
 See [Whitehead family grave]({{< relref "whitehead_grave.pdc" >}}) and [BMD
 record]({{< relref "bmd_records.pdc" >}}).
-
-For more and earlier Whitehead family history see the [Whitehead extract from
-Burke's peerage](/images/whitehead_mj_burkes_1949.pdf)
