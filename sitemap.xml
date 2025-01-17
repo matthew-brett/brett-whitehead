@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://matthew-brett.github.io/brett-whitehead/</loc>
+    <lastmod>2022-11-08T17:07:20+01:00</lastmod>
+  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/james-whitehead/</loc>
     <lastmod>2022-11-08T17:07:20+01:00</lastmod>
   </url><url>
@@ -110,11 +113,7 @@
     <loc>https://matthew-brett.github.io/brett-whitehead/cooke_braginton_vicary/</loc>
     <lastmod>2020-05-28T17:07:20+01:00</lastmod>
   </url><url>
-    <loc>https://matthew-brett.github.io/brett-whitehead/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/roe-braginton-notes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://matthew-brett.github.io/brett-whitehead/categories/</loc>
   </url><url>
