@@ -8,7 +8,7 @@ Notes on the family history, that starts from the marriage of [John Brett and
 
 This is Martin's sketch of the Brett side of the family tree:
 
-![](../images/martin_b_sketch.jpg)
+![](images/martin_b_sketch.jpg)
 
 ## Whiteheads
 
