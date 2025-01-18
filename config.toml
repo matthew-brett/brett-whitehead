@@ -2,7 +2,7 @@ languageCode = "en-us"
 title = "Brett-Whitehead family history"
 newContentEditor = "ggvr"
 theme = "tale"
-canonifyurls = "true"
+baseURL = "matthew-brett.github.io/brett-whitehead/"
 
 [security]
   enableInlineShortcodes = false
